@@ -4,7 +4,9 @@ package com.example.coursework2c;
 import com.example.coursework2c.model.Question;
 import com.example.coursework2c.sevice.ExaminerServiceImpl;
 import com.example.coursework2c.sevice.QuestionService;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
+
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
